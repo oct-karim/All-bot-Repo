@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# ALL-BOT (Raspberry Pi Edition)
+# ALL-BOT 
 
 A smart tracked robot focused on modularity and efficiency
 
